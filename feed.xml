@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seven</title>
+    <description>来看看</description>
+    <link>houhao.space/</link>
+    <atom:link href="houhao.space/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 07 Jun 2017 22:40:05 +0800</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2017 22:40:05 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>无我编程的十条戒律(转译)</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;要理解和接受自己会犯错误
+关键是要在代码变成成品之前发现错误。幸运的是，除了在JPL开发火箭导航软件的一些人，其他人的错误并不会造成致命的错误，所以我们要学会并应当，一笑而过😊&lt;/li&gt;
+  &lt;li&gt;你不是你的代码
+记住审查的目的就是发现错误并且错误会被发现的，当发现一个错误的时候个人别太较真&lt;/li&gt;
+  &lt;li&gt;山外有山，人外有人
+如果你问的话，有的人能教你一些新的技能。寻找并接受别人的建议，尤其在你认为这没必要的时候。&lt;/li&gt;
+  &lt;li&gt;不要在没有结论的情况下重写代码
+在改善代码和重写代码之间有个界限，知道两者的不同，并且在代码审查的框架内追求文本上的变化，而不是当一个孤独的执行者。&lt;/li&gt;
+  &lt;li&gt;对比你知道少的人要有敬意和耐心
+和开发者打交道的非技术人员几乎普遍认为我们在最好的情况下是自负而且喜怒无常的人，在最坏的情况下是爱哭的人。不要用生气和不耐心加强这种观念。&lt;/li&gt;
+  &lt;li&gt;世界上唯一不变的是改变
+对变化保持开放和乐观的态度，把对你的需求，平台或者工具的每一次改变当作一次新的挑战，而不是不方便。&lt;/li&gt;
+  &lt;li&gt;唯一真正的权威源于知识，而不是来自立场。
+知识产生权威，权威产生尊重。所以如果你想在无我的环境中获得尊重，学吧。&lt;/li&gt;
+  &lt;li&gt;为信仰而战，面对失败要洒脱
+要理解你的想法会被否定。即使你被证明是对的，不要报仇雪恨或者一直嚷嚷“我已经讲过了”，不要让你亲爱的想法成为一个殉道者或者集会口号（and don’t make your dearly departed idea a martyr or rallying cry.没有翻译好，求帮助）。&lt;/li&gt;
+  &lt;li&gt;不要成为井底之蛙
+不要成为只有买东西时才出房间的程序员，小黑屋的人闭塞，缺乏视野并且易失控，在开放合作的环境中没有立足之地。&lt;/li&gt;
+  &lt;li&gt;对码不对人，对码农而不是代码好点。
+   如果有可能，让你的所有评论都是积极向上并且旨在改善代码，让评论符合当地标准，程序规范，性能提升等。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;原文来自于[ &lt;a href=&quot;http://www.amazon.com/exec/obidos/ASIN/0932633420/codihorr-20&quot;&gt;The Psychology of Computer Programming&lt;/a&gt;],题目翻译来自&lt;a href=&quot;https://wanqu.co/&quot;&gt;湾区日报&lt;/a&gt;,非常不错的网站，大家可以去订阅😊。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Jun 2017 20:20:07 +0800</pubDate>
+        <link>houhao.space/%E8%AF%91/2017/06/07/ten/</link>
+        <guid isPermaLink="true">houhao.space/%E8%AF%91/2017/06/07/ten/</guid>
+        
+        
+        <category>译</category>
+        
+      </item>
+    
+      <item>
+        <title>AI之后，人才是人</title>
+        <description>&lt;p&gt;最近AI越来越火，尤其是在AlphaGo战胜柯洁之后，甚至有很多人惊呼“人类不行了”。且不论按照现在的发展速度AI是否可以发展成为“真正的智能”，毕竟“Artificial Intelligence”中的“Artificial”是“人工的 假的”。但是可以预见的是AI可以替代一些简单的，重复性比较高的，缺乏创造性的工作，所以对于这种情况，美国开国元勋约翰 亚当斯的一句话特别好：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我们这一代人必须研究政治和军事来壮大国家，儿辈则要学习数学和工程来创造财富，这样孙辈们才可以学会绘画，音乐和诗歌&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;其实这句话就是人类近代史的发展目标，政权稳定之后发展经济，生活无忧之后文化蓬勃发展。这种目标在AI的快速发展下变得更加现实。当人类可以从日常的琐事中脱身出来，不需要担心衣食住行，不需要担心健康，当人人都能享受到物质保障，那么只有追求文化和思想方面的满足，其实这也是AI所不能提供的。那个时候更是“百花齐放，百家争鸣”，思想的独立性和开放性将决定一个人的那个时候的所谓的“社会地位”。如果那个时候成为了一个只享受物质的，没有思想的人时，那个时候你不是人了，甚至连机器都不如。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2017 13:42:07 +0800</pubDate>
+        <link>houhao.space/%E6%83%B3/2017/06/03/AI/</link>
+        <guid isPermaLink="true">houhao.space/%E6%83%B3/2017/06/03/AI/</guid>
+        
+        
+        <category>想</category>
+        
+      </item>
+    
+  </channel>
+</rss>
