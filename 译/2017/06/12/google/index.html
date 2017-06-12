@@ -10,7 +10,7 @@
     <meta name="keywords"  content="哈哈">
     <meta name="theme-color" content="#000000">
     
-    <title>如何制作完整的最小的可检验的代码片段(转译) - seven的博客</title>
+    <title>小哥高中毕业自学成才进谷歌(转译) - seven的博客</title>
 
     <!-- Web App Manifest -->
     <link rel="manifest" href="/pwa/manifest.json">
@@ -19,7 +19,7 @@
     <link rel="shortcut icon" href="/img/favicon.ico">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="houhao.space/%E8%AF%91/2017/06/09/MCVE/">
+    <link rel="canonical" href="houhao.space/%E8%AF%91/2017/06/12/google/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -179,12 +179,12 @@
                     <div class="tags">
                         
                     </div>
-                    <h1>如何制作完整的最小的可检验的代码片段(转译)</h1>
+                    <h1>小哥高中毕业自学成才进谷歌(转译)</h1>
                     
                     
                     <h2 class="subheading"></h2>
                     
-                    <span class="meta">Posted by Seven on June 9, 2017</span>
+                    <span class="meta">Posted by Seven on June 12, 2017</span>
                 </div>
             </div>
         </div>
@@ -202,53 +202,23 @@
                 col-md-10 col-md-offset-1
                 post-container">
 
-				<p>当你问由于你的代码造成的一个问题时，如果你提供的代码别人可以用来重现问题，你会得到更好的答案。代码应当：</p>
+				<p>这小哥叫做Wyatt Arent，高中毕业后家人不支持他学习他喜欢的科学技术类的东西，并拒绝支付他的大学费用。小哥自知靠父母没有希望，高中毕业后就离开了家，有一段时间他无家可归，整天泡在图书馆，毕竟在那里他可以满足自己学习的需求。</p>
 
-<p>​	1. 最小化：在保证再现问题的基础上尽可能使用最少的代码。</p>
+<p>小哥自学很多关于电脑编程的东西，在学习过程中，他发现YouTube有一些OCW（MIT公开课）的视频，小哥毕竟野路子出身，好多东西也没正儿八经的学过，但是OCW提供了一个可以系统学习计算机科学知识的平台，小哥本来就好学，学到这些东西可是如鱼得水啊。</p>
 
-<p>​	2.完整性：提供出现问题的所有代码。</p>
+<p>其实小哥的水平可以找到程序员的工作，但是他知道自己水平有限，还需要深入学习下去，小哥如是说：</p>
+<blockquote>
+  <p>我意识到我真的需要巩固自己的理论知识，作为一个自学程序员，我知道我自己的局限性，编程有些基础的东西，如果你懂的你就可以批判的思考他们，你就可以对你做的东西做出更好的评价，然后你就能专注于做更好的东西（小哥思想层次相当高啊）。</p>
+</blockquote>
 
-<p>​	3.可检验性：测试你提供的代码，确保它出现问题。</p>
+<p>在学习OCW的过程中小哥对编程理论有了更深的理解，填补了自己在自学过程中短板。</p>
 
-<h2 id="最小化">最小化</h2>
+<p>小哥感到很自信，眼界也高了，他开始想自己是不是能在google工作，于是他就申请google工作，在面试过程中，他提到了自己学过的OCW课程，面试官对他的印象很深，小伙，很努力，不错啊。
+于是小哥得到了工作，所以没上过一天大学，当然也没毕业，但是他现在天天和一群很聪明的人工作（好羡慕😢）</p>
 
-<p>代码越多，其他人就越不可能发现问题，可以用一两个方法精炼你的代码：</p>
+<p>这让我同样想到<a href="https://www.zhihu.com/question/28544155">知乎</a>上丸子的回答，有时候，学习只是你想不想的问题，从来不是你能不能的问题，还有，你有你喜欢的东西嘛，有，就好好学并坚持下去，不喜欢，就找一个，哪怕你以后不能从事这个工作，也不管你现在做什么工作。</p>
 
-<ul>
-  <li>从零开始。创建一个新程序，添加必要的东西来重现问题。如果你知道问题的来源，这对大型的系统来说会更快。当然对你而言由于法律和道德问题不能提供源代码，只提供最小化的代码也会有用。</li>
-  <li>划分并解决问题。你有一小段代码，但是并不清楚问题的来源，每次移除一点代码直到问题解决，然后把最后一次移除的代码加上。</li>
-</ul>
-
-<h3 id="最小化和可读性">最小化和可读性</h3>
-
-<p>最小化并不意味着简练，不要因为简洁牺牲沟通性。使用统一的命名和缩进，如果需要就加上注释。很多编辑器有格式化代码的快捷键，找到并使用它。还有，不要使用tab，在你的编辑器上看起来可能不错，但是在Stack Overflow上会显得一团糟。</p>
-
-<h2 id="完整性">完整性</h2>
-
-<p>保证造成问题的所需信息都包括进去了：</p>
-
-<ul>
-  <li>有些人可能已经准备好加载代码，并且测试他们准备的答案</li>
-  <li>问题可能不在你怀疑的地方，而在另一个地方</li>
-</ul>
-
-<p>如果问题需要服务器端的代码例如XML配置文件，包含进来，如果网页问题需要HTML，一些JS还有样式表，全包含进来。</p>
-
-<h2 id="可验证性">可验证性</h2>
-
-<p>为了帮助你解决你的问题，其他人需要验证问题的存在：</p>
-
-<ul>
-  <li>描述问题：“它不管用”不是问题的描述方法，告诉我们你期望的行为是什么，告诉我们详细的报错信息是什么，哪一行出现的问题，在问题的标题写上简单的总结。</li>
-  <li>不要牵扯与问题无关的论题：如果你的问题不牵扯到编译问题，那就确保没有编译错误，使用JSLint类似的工具验证一下，验证所有的HTML和XML的文件。</li>
-  <li>保证提供的代码能再现问题！如果写代码过程中你不经意改好了代码但是没有再次测试，所以在寻求帮助之前你最好知道这些</li>
-</ul>
-
-<p>所以关掉电脑重启可能会用，或者把代码放在新的机器上以确保它确实是一段能出问题的代码</p>
-
-<p>更多的信息关于怎么调试你的程序让你你可以制作最小的代码，你可以放稳<a href="http://stackoverflow.com/users/88656/eric-lippert">Eric Lippert</a>的一篇文章：<a href="http://ericlippert.com/2014/03/05/how-to-debug-small-programs/"><em>How to debug small programs</em>.</a></p>
-
-<p>原文来自于[ <a href="https://stackoverflow.com/help/mcve?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website">How to create a Minimal, Complete, and Verifiable example</a>],题目翻译来自<a href="https://wanqu.co/a/5185/2017-06-07-how-to-create-a-minimal-complete-and-verifiable-example.html?s=/issues">湾区日报</a>,非常不错的网站，大家可以去订阅😊。</p>
+<p>原文来自于[ <a href="http://mailchi.mp/mit/how-ocw-transformed-a-learners-life?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website">how-ocw-transformed-a-learners-life</a>]，阅读来自<a href="https://wanqu.co/a/5193/2017-06-09-a-story-of-how-ocw-transformed-a-learners-life.html?s=/issues">湾区日报</a>，非常不错的网站，大家可以去订阅😊。</p>
 
 
                 <hr style="visibility: hidden;">
@@ -265,19 +235,12 @@
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/%E8%AF%91/2017/06/07/ten/" data-toggle="tooltip" data-placement="top" title="无我编程的十条戒律(转译)">
+                        <a href="/%E8%AF%91/2017/06/09/MCVE/" data-toggle="tooltip" data-placement="top" title="如何制作完整的最小的可检验的代码片段(转译)">
                         Previous<br>
-                        <span>无我编程的十条戒律(转译)</span>
+                        <span>如何制作完整的最小的可检验的代码片段(转译)</span>
                         </a>
                     </li>
                     
-                    
-                    <li class="next">
-                        <a href="/%E8%AF%91/2017/06/12/google/" data-toggle="tooltip" data-placement="top" title="小哥高中毕业自学成才进谷歌(转译)">
-                        Next<br>
-                        <span>小哥高中毕业自学成才进谷歌(转译)</span>
-                        </a>
-                    </li>
                     
                 </ul>
 

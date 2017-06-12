@@ -3,11 +3,40 @@
   <channel>
     <title>Seven</title>
     <description>来看看</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 10 Jun 2017 00:36:34 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Jun 2017 00:36:34 +0800</lastBuildDate>
+    <link>houhao.space/</link>
+    <atom:link href="houhao.space/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 12 Jun 2017 22:05:25 +0800</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 22:05:25 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>小哥高中毕业自学成才进谷歌(转译)</title>
+        <description>&lt;p&gt;这小哥叫做Wyatt Arent，高中毕业后家人不支持他学习他喜欢的科学技术类的东西，并拒绝支付他的大学费用。小哥自知靠父母没有希望，高中毕业后就离开了家，有一段时间他无家可归，整天泡在图书馆，毕竟在那里他可以满足自己学习的需求。&lt;/p&gt;
+
+&lt;p&gt;小哥自学很多关于电脑编程的东西，在学习过程中，他发现YouTube有一些OCW（MIT公开课）的视频，小哥毕竟野路子出身，好多东西也没正儿八经的学过，但是OCW提供了一个可以系统学习计算机科学知识的平台，小哥本来就好学，学到这些东西可是如鱼得水啊。&lt;/p&gt;
+
+&lt;p&gt;其实小哥的水平可以找到程序员的工作，但是他知道自己水平有限，还需要深入学习下去，小哥如是说：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;我意识到我真的需要巩固自己的理论知识，作为一个自学程序员，我知道我自己的局限性，编程有些基础的东西，如果你懂的你就可以批判的思考他们，你就可以对你做的东西做出更好的评价，然后你就能专注于做更好的东西（小哥思想层次相当高啊）。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在学习OCW的过程中小哥对编程理论有了更深的理解，填补了自己在自学过程中短板。&lt;/p&gt;
+
+&lt;p&gt;小哥感到很自信，眼界也高了，他开始想自己是不是能在google工作，于是他就申请google工作，在面试过程中，他提到了自己学过的OCW课程，面试官对他的印象很深，小伙，很努力，不错啊。
+于是小哥得到了工作，所以没上过一天大学，当然也没毕业，但是他现在天天和一群很聪明的人工作（好羡慕😢）&lt;/p&gt;
+
+&lt;p&gt;这让我同样想到&lt;a href=&quot;https://www.zhihu.com/question/28544155&quot;&gt;知乎&lt;/a&gt;上丸子的回答，有时候，学习只是你想不想的问题，从来不是你能不能的问题，还有，你有你喜欢的东西嘛，有，就好好学并坚持下去，不喜欢，就找一个，哪怕你以后不能从事这个工作，也不管你现在做什么工作。&lt;/p&gt;
+
+&lt;p&gt;原文来自于[ &lt;a href=&quot;http://mailchi.mp/mit/how-ocw-transformed-a-learners-life?utm_source=wanqu.co&amp;amp;utm_campaign=Wanqu+Daily&amp;amp;utm_medium=website&quot;&gt;how-ocw-transformed-a-learners-life&lt;/a&gt;]，阅读来自&lt;a href=&quot;https://wanqu.co/a/5193/2017-06-09-a-story-of-how-ocw-transformed-a-learners-life.html?s=/issues&quot;&gt;湾区日报&lt;/a&gt;，非常不错的网站，大家可以去订阅😊。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jun 2017 20:43:08 +0800</pubDate>
+        <link>houhao.space/%E8%AF%91/2017/06/12/google/</link>
+        <guid isPermaLink="true">houhao.space/%E8%AF%91/2017/06/12/google/</guid>
+        
+        
+        <category>译</category>
+        
+      </item>
     
       <item>
         <title>如何制作完整的最小的可检验的代码片段(转译)</title>
@@ -60,8 +89,8 @@
 &lt;p&gt;原文来自于[ &lt;a href=&quot;https://stackoverflow.com/help/mcve?utm_source=wanqu.co&amp;amp;utm_campaign=Wanqu+Daily&amp;amp;utm_medium=website&quot;&gt;How to create a Minimal, Complete, and Verifiable example&lt;/a&gt;],题目翻译来自&lt;a href=&quot;https://wanqu.co/a/5185/2017-06-07-how-to-create-a-minimal-complete-and-verifiable-example.html?s=/issues&quot;&gt;湾区日报&lt;/a&gt;,非常不错的网站，大家可以去订阅😊。&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Jun 2017 22:42:07 +0800</pubDate>
-        <link>http://localhost:4000/%E8%AF%91/2017/06/09/MCVE/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E8%AF%91/2017/06/09/MCVE/</guid>
+        <link>houhao.space/%E8%AF%91/2017/06/09/MCVE/</link>
+        <guid isPermaLink="true">houhao.space/%E8%AF%91/2017/06/09/MCVE/</guid>
         
         
         <category>译</category>
@@ -96,8 +125,8 @@
 &lt;p&gt;原文来自于[ &lt;a href=&quot;http://www.amazon.com/exec/obidos/ASIN/0932633420/codihorr-20&quot;&gt;The Psychology of Computer Programming&lt;/a&gt;],题目翻译来自&lt;a href=&quot;https://wanqu.co/&quot;&gt;湾区日报&lt;/a&gt;,非常不错的网站，大家可以去订阅😊。&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Jun 2017 20:20:07 +0800</pubDate>
-        <link>http://localhost:4000/%E8%AF%91/2017/06/07/ten/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E8%AF%91/2017/06/07/ten/</guid>
+        <link>houhao.space/%E8%AF%91/2017/06/07/ten/</link>
+        <guid isPermaLink="true">houhao.space/%E8%AF%91/2017/06/07/ten/</guid>
         
         
         <category>译</category>
@@ -115,8 +144,8 @@
 &lt;p&gt;其实这句话就是人类近代史的发展目标，政权稳定之后发展经济，生活无忧之后文化蓬勃发展。这种目标在AI的快速发展下变得更加现实。当人类可以从日常的琐事中脱身出来，不需要担心衣食住行，不需要担心健康，当人人都能享受到物质保障，那么只有追求文化和思想方面的满足，其实这也是AI所不能提供的。那个时候更是“百花齐放，百家争鸣”，思想的独立性和开放性将决定一个人的那个时候的所谓的“社会地位”。如果那个时候成为了一个只享受物质的，没有思想的人时，那个时候你不是人了，甚至连机器都不如。&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Jun 2017 13:42:07 +0800</pubDate>
-        <link>http://localhost:4000/%E6%83%B3/2017/06/03/AI/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E6%83%B3/2017/06/03/AI/</guid>
+        <link>houhao.space/%E6%83%B3/2017/06/03/AI/</link>
+        <guid isPermaLink="true">houhao.space/%E6%83%B3/2017/06/03/AI/</guid>
         
         
         <category>想</category>
