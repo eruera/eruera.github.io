@@ -5,9 +5,115 @@
     <description>来看看</description>
     <link>houhao.space/</link>
     <atom:link href="houhao.space/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Jun 2017 22:50:47 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Jun 2017 22:50:47 +0800</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 22:53:03 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 22:53:03 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>图说bitcoin</title>
+        <description>&lt;p&gt;比特币不仅仅是一个具有革命性的数字货币，而且还有应用到其他领域的潜力。你不需要成为专家来理解它，当你了解整个比特币的基本原理后，你或许会感到还真是那么一回事，以下为第一部分。&lt;/p&gt;
+
+&lt;p&gt;人们使用微信或者qq，添加文件，点击发送，朋友就收到了，他可以查看文件或者删掉，想怎样就怎样。&lt;/p&gt;
+
+&lt;p&gt;但是，我仍然还有一份这个文件&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ox93d0zf2.bkt.clouddn.com/file.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这通常就是数字格式文件的传播方式，你并不是转移文件，而是复制文件。目前为止这一方法使用良好，虽然有可能违法，但是复制一首歌或者电影不至于搞崩经济。&lt;/p&gt;
+
+&lt;p&gt;但是复制钞票呢？&lt;/p&gt;
+
+&lt;p&gt;如果我给你一块钱，我手上还有没有这一块钱是至关重要的。如果可以通过网络无限复制钞票，这听上去挺吸引人，但是每个人都这么做，经济也玩完了。&lt;/p&gt;
+
+&lt;p&gt;通常，在这个电汇和信用卡的时代，数字货币是使用中心化追踪来防止货币复制的。举例说，在你银行的数据库中可以证明你拥有这些钱。这套系统依赖于统一的管理机构，大家都懂的，这个管理机构完全掌控你的钱。&lt;/p&gt;
+
+&lt;p&gt;那有没有其他的办法呢？如果不依赖于统一的管理机构，而是依赖于不属于单一方面的分布式管理机构？如果我们的钱值钱不是因为我们相信政府的支持，而是相信数学的力量？&lt;/p&gt;
+
+&lt;p&gt;这就是比特币。&lt;/p&gt;
+
+&lt;h2 id=&quot;比特币简介&quot;&gt;比特币简介&lt;/h2&gt;
+
+&lt;p&gt;比特币是不依赖于任何政府和组织的数字货币系统。&lt;/p&gt;
+
+&lt;p&gt;这有点迷惑人，这个比特币“系统”和“货币”本身是一个词。比特币创建于2009年，是通过挖矿来获取货币的，这有点像21世纪的挖金矿。&lt;/p&gt;
+
+&lt;p&gt;比特币的所有交易都记录到区块链中，这不是银行的秘密列表，而是一个广泛传播的公共列表，每一个参与进来的电脑都有一份拷贝。&lt;/p&gt;
+
+&lt;p&gt;比特币区块链是一个不可更改的，公共的，分布式的账簿。&lt;/p&gt;
+
+&lt;p&gt;不可更改：一旦交易记录到区块链，不可能更改和消除记录，这是因为之后的交易都建立在这个交易之上。&lt;/p&gt;
+
+&lt;p&gt;公共的：任何人都可以查看区块链。当然这不意味着你可以知道谁是交易双方，因为记录是匿名的，身份无法确认。&lt;/p&gt;
+
+&lt;p&gt;分布式：区块链拷贝同步记录到分布在全世界的电脑中，没有什么主拷贝，所有的拷贝都是相同的。&lt;/p&gt;
+
+&lt;p&gt;账簿：区块链就是交易列表，就像是你生活费记的帐。&lt;/p&gt;
+
+&lt;p&gt;这个分布式账簿被叫做区块链是因为个人交易记录汇总到一个大的块之中，这些块连接成一个序列。这比一个一个添加记录要快，每一个交易块十分钟创建一次。&lt;/p&gt;
+
+&lt;p&gt;为了更好的说明不可更改，公共和分布式的厉害，让我们假设现在有5块钱的比特币，我的朋友一姐转我5块钱的比特币，然后被记录到了区块链中，于是我转给你5块钱的比特币，这是因为每一份区块链拷贝记录了我拥有了曾属于一姐的5块钱比特币。在这个过程中牵扯到的每一个人都不需要谁或者任何机构的允许，整个过程是去中心化的，这笔交易存在分布在世界各地的每一个区块链中。&lt;/p&gt;
+
+&lt;p&gt;你或许有点疑问，一姐的比特币哪来的？&lt;/p&gt;
+
+&lt;p&gt;简单，别人给的呗。&lt;/p&gt;
+
+&lt;p&gt;但是比特币不能无中生有啊。&lt;/p&gt;
+
+&lt;h2 id=&quot;比特币的诞生&quot;&gt;比特币的诞生。&lt;/h2&gt;
+
+&lt;p&gt;美元是美国政府印的，人民币是中国政府印的，这个大家没有异议。之前美元是由美国财政部相同量的黄金支持的，所以当时挖金很火热。&lt;/p&gt;
+
+&lt;p&gt;比特币也是通过挖矿得到的，与锄头和铁锹不同的是，这个是利用软硬件的数字挖矿。为了让一个交易块添加到区块链中，需要解决一个数学问题，第一个解决这个问题的矿工就会得到比特币的奖励，这就是比特币怎么来的。&lt;/p&gt;
+
+&lt;p&gt;总结来说，挖矿干了两件事：把块加到区块链上和创建新的比特币。矿工们需要解决的数学问题包括一个叫哈希法的东西。&lt;/p&gt;
+
+&lt;p&gt;哈希是数据的指纹，可以用来辨认数据内容的唯一性，无论内容是照片，密码，文本等等，都可以通过哈希法计算。&lt;/p&gt;
+
+&lt;p&gt;哈希法是计算机科学的核心内容，在很多地方广泛应用。为了保证安全性，在线服务通常存储密码的哈希值而不是密码本身，当你登录的时候比较的是密码的哈希值。脸书用哈希值来检验上传图片合不合适，并不是有人在脸书一张一张的检查图片是否黄暴，而是脸书会把上报的不合适照片哈希化然后建立一个不适当内容的哈希列表，每当有新照片上传的时候就会把照片用哈希函数计算，然后和列表对比，如果有匹配，脸书就知道照片有不合适的内容。&lt;/p&gt;
+
+&lt;p&gt;通常来说，当软件运行哈希函数，输入值，如照片，输出一长串的字符串，就是哈希值。&lt;/p&gt;
+
+&lt;p&gt;举例，让我们把这张小狗的照片输入到哈希方程SHA-256：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ox93d0zf2.bkt.clouddn.com/puppy.jpeg&quot; alt=&quot;Puppy by Jonathan Kriz is licensed under CC BY 2.0.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;显然这张照片并不违反脸书的规定，并不是有人在脸书审阅这张照片，而是脸书的软件检查照片的哈希值：EC9D4718F919C6087CA589EDA09E7DD9A7ACCDB820F42B4196E1D0D4BEDE77A&lt;/p&gt;
+
+&lt;p&gt;这是SHA-256的结果，16制的表达方式，不如照片可爱多了。&lt;/p&gt;
+
+&lt;p&gt;有趣的是如果我们稍微更改一下照片，结果会完全不同，例如，我们在小狗的右眼上增加一像素的跳蚤：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ox93d0zf2.bkt.clouddn.com/puppywitfleg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;结果完全不同:&lt;/p&gt;
+
+&lt;p&gt;039E1AF92F7D00775ECE35C2216FC3F7F0BBCD31F912A105D2601380D8DEABA2&lt;/p&gt;
+
+&lt;p&gt;接下来用简单易懂的表情来说明一下，🐱代表输入值，🎀代表输出值：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ox93d0zf2.bkt.clouddn.com/hashcat.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;设想脸书用一个哈希方程来验证两种不合适的图片，例如🚫 和❌，结果是💩 和💀.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ox93d0zf2.bkt.clouddn.com/hashshit.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;有人上传了一张照片，称之为？，脸书不知道他是啥，所以哈希一下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ox93d0zf2.bkt.clouddn.com/hashquestion.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;虽然没人真正看这张照片，脸书也知道这张照片不合适，照片验证是哈希法的一个应用场景，比特币是另外一种应用，我们下次再表～～～&lt;/p&gt;
+
+&lt;p&gt;原文来自于[&lt;a href=&quot;https://medium.com/@tessr/making-money-530d2bb2b8f7&quot;&gt;Making Money
+Bitcoin Explained (with Emoji), Part 1&lt;/a&gt;]，阅读来自&lt;a href=&quot;https://wanqu.co&quot;&gt;湾区日报&lt;/a&gt;，非常不错的网站，大家可以去订阅😊。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 22:20:07 +0800</pubDate>
+        <link>houhao.space/%E6%8A%80/2017/10/03/bitcoin1/</link>
+        <guid isPermaLink="true">houhao.space/%E6%8A%80/2017/10/03/bitcoin1/</guid>
+        
+        
+        <category>技</category>
+        
+      </item>
     
       <item>
         <title>与其给自己设定目标,不如养成好习惯</title>
